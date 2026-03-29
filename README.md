@@ -1,4 +1,4 @@
-## Hello and Wlecome👋
+## Hello and Welecome👋
 
 <!--
 **monishr024/monishr024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -65,109 +65,26 @@ I enjoy designing production-ready applications that combine clean software engi
 </p>
 
 ---
-
 # 💻 Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
-<b>Python</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
-<b>Java</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
-<b>C</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=flask" width="55"/><br>
-<b>Flask</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=django" width="55"/><br>
-<b>Django</b>
-</td>
-
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>
-<b>TensorFlow</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=opencv" width="55"/><br>
-<b>OpenCV</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
-<b>SQLite</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>
-<b>PostgreSQL</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
-<b>Docker</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
-<b>Git</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
-<b>GitHub</b>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
-<b>HTML5</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
-<b>CSS3</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
-<b>JavaScript</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
-<b>VS Code</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=anaconda" width="55"/><br>
-<b>Anaconda</b>
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
-<b>Linux</b>
-</td>
-</tr>
-
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 ---

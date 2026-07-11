@@ -1,18 +1,85 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Building web applications using Flask and working with data using Pandas and NumPy  <br><br>👯 I’m looking to collaborate on  <br>Open-source projects related to Python, web development, and AI  <br><br>🤝 I’m looking for help with  <br>Machine Learning concepts and real-world project implementation  <br><br>🌱 I’m currently learning  <br>Machine Learning and exploring the path towards Generative AI  <br><br>💬 Ask me about  <br>Python, Flask, SQL, Pandas, NumPy, and beginner-friendly projects  <br><br>⚡ Fun fact  <br>I enjoy turning ideas into real-world projects and learning by building  
+<div align="center">
 
+# 👋 Hi, I'm Monish R
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Monish R) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monish_ravi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Monish R) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Monish) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:monishr024@gmail.com) 
+### AI/ML Engineer • Generative AI Enthusiast • Python Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=monishr024&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=monishr024&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=monishr024&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Applications;Machine+Learning+%7C+Generative+AI;Computer+Vision+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=monishr024&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/monishr024?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/monishr024?style=for-the-badge&logo=github" />
+</p>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=monishr024&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 🧠 Currently exploring LLMs, RAG, and Generative AI
+- 💻 Building production-ready AI applications
+- 🌱 Always learning and improving
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://github.com/monishr024"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/monish-r-5778ba292"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:monishr024@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/monishravi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.kaggle.com/monishr024"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+</p>
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,flask,tensorflow,opencv,sqlite,MySQL,git,github,docker,vscode,html,css,js"/>
+
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=monishr024&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=monishr024&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishr024&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=monishr024&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/monishr024/monishr024/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+## 💡 Coding Profiles
+
+<p align="center">
+<a href="https://leetcode.com/monishravi">
+<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Poppins"/>
+</a>
+</p>
+
+<div align="center">
+
+### ⭐ Building AI Solutions That Create Real-World Impact
+
+*"Code. Learn. Innovate. Repeat."*
+
+</div>

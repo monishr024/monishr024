@@ -68,12 +68,108 @@ I enjoy designing production-ready applications that combine clean software engi
 
 # 💻 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,flask,django,tensorflow,opencv,sqlite,postgres,git,github,docker,vscode,html,css,js&perline=8"/>
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
 
-</p>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b>
+</td>
 
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=c" width="55"/><br>
+<b>C</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=flask" width="55"/><br>
+<b>Flask</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=django" width="55"/><br>
+<b>Django</b>
+</td>
+
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55"/><br>
+<b>TensorFlow</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/><br>
+<b>OpenCV</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/><br>
+<b>SQLite</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="55"/><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="55"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=anaconda" width="55"/><br>
+<b>Anaconda</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
+<b>Linux</b>
+</td>
+</tr>
+
+</table>
+
+</div>
 ---
 
 

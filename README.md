@@ -4,7 +4,7 @@
 
 ### AI/ML Engineer • Generative AI Enthusiast • Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Applications;Machine+Learning+%7C+Generative+AI;Computer+Vision+Developer;Backend+Developer+using+Flask+%26+Django;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Production-Ready+AI+Applications;Machine+Learning+%7C+Generative+AI;Backend+Developer+using+Flask+%26;Always+Learning+New+Technologies" />
 
 <img src="https://komarev.com/ghpvc/?username=monishr024&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 

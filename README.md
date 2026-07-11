@@ -64,7 +64,7 @@ I enjoy designing production-ready applications that combine clean software engi
 
 </p>
 
----
+
 # 💻 Tech Stack
 
 <div align="center">
@@ -87,7 +87,7 @@ I enjoy designing production-ready applications that combine clean software engi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
----
+
 
 
 # 📈 GitHub Analytics

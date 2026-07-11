@@ -64,6 +64,7 @@ I enjoy designing production-ready applications that combine clean software engi
 
 </p>
 
+---
 
 # 💻 Tech Stack
 
@@ -88,7 +89,7 @@ I enjoy designing production-ready applications that combine clean software engi
 
 </div>
 
-
+---
 
 # 📈 GitHub Analytics
 

@@ -56,23 +56,12 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monishr024&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=monishr024&theme=algolia&no-frame=true&row=1&column=7"/>
-</p>
-
-## 🐍 Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/monishr024/monishr024/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ## 💡 Coding Profiles
 
 <p align="center">
 <a href="https://leetcode.com/monishravi">
-<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Poppins"/>
+<img src="https://leetcard.jacoblin.cool/monishravi?theme=dark&font=Poppins"/>
 </a>
 </p>
 

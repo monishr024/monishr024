@@ -24,8 +24,6 @@ My interests include
 - 💬 Natural Language Processing
 - 🌐 Backend Development
 
-I enjoy designing production-ready applications that combine clean software engineering with modern AI technologies.
-
 ---
 
 # 🌱 Currently Learning
@@ -33,7 +31,6 @@ I enjoy designing production-ready applications that combine clean software engi
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - LangChain
-- Docker
 - MLOps
 - Cloud Deployment
 - System Design
